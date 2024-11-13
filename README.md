@@ -1,5 +1,5 @@
 <br><br>
 <samp>
-	I'm Mahmut Barış Kapkiç (20), who is interested in CyberSec, Cryptography, Quantum Computing and currently learning about ReverseEng and BinaryExp.
+	I'm Mahmut "Barış" Kapkiç (22),who is interested in CyberSec, Cryptography, ReverseEng and currently learning about BinaryExp, and IPSec.
 </samp>
 <br/><br/>
